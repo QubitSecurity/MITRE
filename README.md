@@ -3,9 +3,11 @@
 
 # Reference
 
-#### 1. https://attack.mitre.org/
+#### 1.1 https://attack.mitre.org/
 
-#### 2. https://car.mitre.org/
+#### 1.2 https://github.com/mitre/
+
+#### 1.3 https://car.mitre.org/
 
 #### 3. https://github.com/mitre/caldera
 
@@ -14,8 +16,6 @@
 #### 5. https://github.com/mitre-attack/attack-website
 
 #### 6. Sigma, https://github.com/SigmaHQ/sigma/
-
-#### 7. [https://github.com/OTRF/ThreatHunter-Playbook/](https://github.com/splunk/botsv2)
 
 #### 8. https://github.com/redcanaryco/atomic-red-team
 
