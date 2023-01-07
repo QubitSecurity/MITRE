@@ -15,7 +15,7 @@
 
 #### 6. https://github.com/splunk/botsv2
 
-#### 7. 
+#### 7. https://github.com/OTRF/ThreatHunter-Playbook/
 
 #### 8. 
 
@@ -33,3 +33,5 @@
 #### 2. https://github.com/redcanaryco/atomic-red-team
 
 #### 9. https://www.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
+
+#### 9. https://car.mitre.org/analytics/CAR-2016-03-002/
