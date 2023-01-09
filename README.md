@@ -24,8 +24,6 @@
 #### 9. https://github.com/OTRF/ThreatHunter-Playbook/
 
 
-
-
 # Reference
 
 #### 1. Enterprise Detection & Response, http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
@@ -35,3 +33,9 @@
 #### 9. https://www.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
 
 #### 9. https://car.mitre.org/analytics/CAR-2016-03-002/
+
+# Reference
+
+#### 1. PLURA, https://youtu.be/ZrV9dGkwA_U
+
+
