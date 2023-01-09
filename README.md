@@ -36,6 +36,6 @@
 
 # Reference
 
-#### 1. PLURA, https://youtu.be/ZrV9dGkwA_U
+#### 1. Penetration Test APT29 using by Caldera, https://youtu.be/ZrV9dGkwA_U
 
 
