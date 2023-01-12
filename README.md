@@ -3,26 +3,27 @@
 
 # Reference
 
-#### 1.1 https://attack.mitre.org/
+#### 1. https://attack.mitre.org/
 
-#### 1.2 https://github.com/mitre/
+#### 2. https://github.com/mitre/
 
-#### 1.3 https://car.mitre.org/
+#### 3. https://car.mitre.org/
 
-#### 3. https://github.com/mitre/caldera
+#### 4. https://github.com/mitre/caldera
 
-#### 4. https://github.com/mitre-attack/
+#### 5. https://github.com/mitre-attack/
 
-#### 5. https://github.com/mitre-attack/attack-website
+#### 6. https://github.com/mitre-attack/attack-website
 
-#### 6. Sigma, https://github.com/SigmaHQ/sigma/
+#### 7. Sigma, https://github.com/SigmaHQ/sigma/
 
 #### 8. https://github.com/redcanaryco/atomic-red-team
 
 #### 9. https://github.com/splunk/botsv2
 
-#### 9. https://github.com/OTRF/ThreatHunter-Playbook/
+#### 10. https://github.com/OTRF/ThreatHunter-Playbook/
 
+#### 11. https://car.mitre.org/analytics/CAR-2016-03-002/
 
 # Reference
 
@@ -30,12 +31,16 @@
 
 #### 2. https://github.com/redcanaryco/atomic-red-team
 
-#### 9. https://www.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
+#### 3. https://www.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
 
-#### 9. https://car.mitre.org/analytics/CAR-2016-03-002/
 
-# Reference
+# PLURA (Korean)
 
-#### 1. Penetration Test APT29 using by Caldera, https://youtu.be/ZrV9dGkwA_U
+#### 1. YouTube, Penetration Test APT29 using by Caldera, https://youtu.be/ZrV9dGkwA_U
 
+#### 2. Blog, About MITRE ATT&CK, http://blog.plura.io/?p=13055
+
+#### 3. Blog, Dection using ATT&CK about Emotet virus, http://blog.plura.io/?p=18657
+
+#### 4. Manual, How to, https://qubitsec.github.io/ko_matrix.html
 
