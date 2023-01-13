@@ -15,16 +15,17 @@
 
 #### 6. https://github.com/mitre-attack/
 
-#### 7. https://github.com/mitre-attack/attack-website
+#### 8. https://github.com/mitre-attack/attack-website
 
-#### 8. Sigma, https://github.com/SigmaHQ/sigma/
+#### 9. https://caldera.readthedocs.io/en/latest/index.html
 
-#### 9. https://github.com/redcanaryco/atomic-red-team
+#### 10. https://github.com/redcanaryco/atomic-red-team
 
-#### 10. https://github.com/splunk/botsv2
+#### 11. https://github.com/splunk/botsv2
 
-#### 11. https://github.com/OTRF/ThreatHunter-Playbook/
+#### 12. https://github.com/OTRF/ThreatHunter-Playbook/
 
+#### 13. https://attackevals.mitre-engenuity.org/enterprise
 
 # Reference
 
@@ -34,14 +35,22 @@
 
 #### 3. https://www.slideshare.net/KatieNickels/threatbased-adversary-emulation-with-mitre-attck
 
+#### 4. Sigma, https://github.com/SigmaHQ/sigma/
+
+#### 5. OSSEC, https://github.com/0xBEN/ossec-sysmon
+
+#### 6. https://github.com/The-Viper-One/Pentest-Everything
+
+#### 7. https://bradleyjkemp.dev/sigmadoc/
+
 
 # PLURA (Korean)
 
-#### 1. YouTube, Penetration Test APT29 using by Caldera, https://youtu.be/ZrV9dGkwA_U
+#### 1. Blog, About MITRE ATT&CK, http://blog.plura.io/?p=13055
 
-#### 2. Blog, About MITRE ATT&CK, http://blog.plura.io/?p=13055
+#### 2. Blog, Dection using ATT&CK about Emotet virus, http://blog.plura.io/?p=18657
 
-#### 3. Blog, Dection using ATT&CK about Emotet virus, http://blog.plura.io/?p=18657
+#### 3. Manual, How to, https://qubitsec.github.io/ko_matrix.html
 
-#### 4. Manual, How to, https://qubitsec.github.io/ko_matrix.html
+#### 3. Manual, Pentest, 
 
