@@ -52,5 +52,5 @@
 
 #### 3. Manual, How to, https://qubitsec.github.io/ko_matrix.html
 
-#### 3. Manual, Pentest, 
+#### 3. Manual, Penetration for APT29, https://qubitsec.github.io/ko_APT29_Attack.html
 
