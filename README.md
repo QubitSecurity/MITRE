@@ -1,6 +1,5 @@
 # MITRE
 
-
 # Useful Links
 
 #### 1. https://attack.mitre.org/
