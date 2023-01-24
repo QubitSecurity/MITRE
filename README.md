@@ -1,7 +1,7 @@
 # MITRE
 
 
-# Reference
+# Useful Links
 
 #### 1. https://attack.mitre.org/
 
@@ -27,7 +27,7 @@
 
 #### 13. https://attackevals.mitre-engenuity.org/enterprise
 
-# Reference
+# Useful Links
 
 #### 1. Enterprise Detection & Response, http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
 
