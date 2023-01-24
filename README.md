@@ -48,7 +48,7 @@
 
 #### 1. Blog, About MITRE ATT&CK, http://blog.plura.io/?p=13055
 
-#### 2. Blog, Dection using ATT&CK about Emotet virus, http://blog.plura.io/?p=18657
+#### 2. Blog, Detection using ATT&CK about Emotet virus, http://blog.plura.io/?p=18657
 
 #### 3. Manual, How to, https://qubitsec.github.io/ko_matrix.html
 
